@@ -1,6 +1,6 @@
 # About This Repo
 
-This is a practice space for the Codetopia community. It exsits so you
+This is a practice space for the Codetopia community. It exists so you
 can make real pull requests, get real reviews, and run into real problems
 before you do any of that on a project that actually matters.
 
